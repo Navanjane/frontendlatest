@@ -1,6 +1,6 @@
 {
   "name": "lms",
-  "homepage": "https://frontendlatest-ikaen.ondigitalocean.app/"
+  "homepage": "https://frontendlatest-ikaen.ondigitalocean.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
